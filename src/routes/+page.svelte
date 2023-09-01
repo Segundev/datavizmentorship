@@ -54,9 +54,9 @@
   }
 
   const steps = [
-    "<p>In 2023, Voters participation among the south south and south eastern states reduced significantly. Bayelsa state recorded its lowest compared to the previous presidential election of 2015 and 2019</p>",
-    "<p>In 2019, the decline right from 2007 was obvious in Enugu, Cross River, Rivers, Akwa Ibom and other neigbouring southern states. Most of this states recorded a turnout above 40% in 2015 but declined to an average below 25% in 2019</p>",
-    "<p>Even though voters participation rate was above 40% which implies at most 5 in 10 Nigerians voted, Lagos performed woefully and recorded a turnout below Borno state, a period where the terrorism in the state was at its peak</p>",
+    "<p>In 2023, voter participation among the southern and southern-eastern states decreased significantly. Bayelsa State recorded its lowest percentage compared to the previous presidential elections of 2015 and 2019.</p>",
+    "<p>In 2019, the decline right from 2007 was obvious in Enugu, Cross River, Rivers, Akwa Ibom, and other neighboring southern states. Most of these states recorded turnout above 40% in 2015 but declined to an average below 25% in 2019.</p>",
+    "<p>Despite the fact that the voter turnout rate was above 40%, which means that at most 5 in 10 Nigerians voted, Lagos did horribly and had a lower turnout than Borno State, at a time when terrorism in the state was at its worst.</p>",
   ];
 </script>
 
